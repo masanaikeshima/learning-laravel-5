@@ -1,0 +1,15 @@
+.home {
+  color: red;
+  font-weight: bold;
+  padding: 10px; }
+
+body {
+  padding-top: 40px; }
+
+body, label, .checkbox label {
+  font-weight: 300; }
+
+p {
+  color: #333; }
+
+/*# sourceMappingURL=app.css.map */
